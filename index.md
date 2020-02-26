@@ -1,2 +1,2 @@
 欢迎来到我的博客呀
-<http://example.com/>
+<https://mary-ma123.github.io/>
